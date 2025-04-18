@@ -51,10 +51,9 @@ ufw disable
 - پورت پیش‌فرض VNC: 5901
 - پورت پیش‌فرض noVNC: 6080
 
-اجرای مستقیم بر روی سرور با دستور زیر
 
+ دانلود و اجرای مستقیم
 
-
-'''
+```bash
 sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/RTDeveloperman/NoVNC/main/setup_vnc_novnc.sh)"
-'''
+```
