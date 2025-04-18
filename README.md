@@ -55,6 +55,6 @@ ufw disable
 
 
 
-'''bash
+'''
 sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/RTDeveloperman/NoVNC/main/setup_vnc_novnc.sh)"
 '''
